@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Splash Screen was increated as a pre-screener
+* [x] Splash Screen was created as a pre-screener
 
 ## Video Walkthrough
 
